@@ -1,0 +1,317 @@
+Name,Research Interests,Education,Research Experience,Selected Publications
+" Lu Jiang "," 
+My research goal is to solve real problems on big data. My research area is in the interdisciplinary ﬁled of Multimedia, Machine Learning, Computer Vision, Information Retrieval and Big Data, which speciﬁcally, includes video understanding and search, weakly supervised learning on noisy data, vision+language, cloud, etc.
+","
+Carnegie Mellon University 2011 - 2017 Ph.D. in Artiﬁcial Intelligence. (GPA: 4.12/4.33) Advisors: Prof. Alexander Hauptmann and Teruko Mitamura Thesis: Web-scale Multimedia Search for Internet Video Content
+Free University of Brussels 2010 - 2011 M.Sc. in Computer Science. (Erasmus Mundus Exchange Program) 
+Xi’an Jiaotong University 2008 - 2011 M.Sc. in Computer Science. (GPA: 3.62/4.00, Rank: 1/142), Advisor: Prof. Jun Liu B.Eng. in Software Engineering, 2004-2008. (Major GPA: 3.88/4.00)
+"," 
+Research Scientist at Google AI Cloud AI    May 2017 - Now 
+Democratize cloud machine learning and video intelligence.
+Research Assistant at Carnegie Mellon University    Sep. 2011 - April 2017  
+The key contributor to a ﬁve-year IARPA project. The project is to approach an automatic method to detect the event in Internet videos without any user-generated metadata. Proposed the ﬁrst of its kind zero-shot system, which not only achieves the top performance in NIST TRECVID evaluation 2013-2015, 3 years in a row, but also scales the search up to 100 million videos. The developed techniques lead to patterns and inventions. 
+Intern Scientist at Yahoo Research     May 2016 - August 2016
+The project is on the large-scale personal photo and video search on Flickr. Proposed deep query understanding models that boost the state-of-the-art (word2vec) search accuracy by a relative 45%. In addition, analyzed big personal media search logs on Flickr, and discovered distinguishing characteristics of this novel problem. 
+Intern at Google Research    Feb. 2016 - May 2016 
+The project is on training concept detectors on big weakly-labeled data of YouTube using Tensorﬂow. Proposed novel webly-labeled learning method which improves the state-of-the-art accuracy by Y%. In addition, slashed training time from a few days to a few hours.
+Research Intern at Microsoft Research Asia May 2010 - August 2010 
+Designed and implemented a novel pattern/logic engine for retrieval and data mining system. The code was used in the launched product. 
+Research Assistant at Xi’an Jiaotong University Sep. 2008 - July 2010 
+The project is a National High-Tech R&D Program, which aims at discovering and managing the educational resources on the Internet. Designed and implemented domain term recognition and title extraction for World, PPT, PDF, and HTML. Proposed algorithms to recognize the associations in knowledge networks; designed and implemented the knowledge element association detector.
+"," 
+[1] Lu Jiang, Zhengyuan Zhou, Thomas Leung, Li-Jia Li, Li Fei-Fei. MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. In International Conference on Machine Learning (ICML), 2018
+ICML 18
+[2] Junwei Liang, Lu Jiang, Liangliang Cao, Li-Jia Li, Alexander Hauptmann. Focal Visual-Text Attention for Visual Question Answering. In Computer Vision and Pattern Recognition (CVPR), 2018
+CVPR 18 (spotlight)
+[3] Zelun Luo, Jun-Ting Hsieh, Lu Jiang, Juan Carlos Niebles, Li Fei-Fei. Graph Distillation for Action Detection with Privileged Information in RGB-D Videos. In European Conference on Computer Vision (ECCV), 2018
+ECCV 18
+[4] Yu Wu, Linchao Zhu, Lu Jiang, Yi Yang. Decoupled Novel Object Captioner. In ACM Multimedia (MM), 2018 
+MM 18 
+[5] Lu Jiang, Yannis Kalantidis, Liangliang Cao, Sachin, Farfade, Jiliang Tang, Alex Hauptmann. Delving Deep into Personal Photo and Video Search. In Web Search and Data Mining (WSDM), 2017. 
+WSDM 17
+[6] Junwei Liang, Lu Jiang, Deyu Meng, Alexander Hauptmann. Leveraging Multimodal Prior Knowledge for Large-scale Concept Learning in Noisy Web Data. In ACM International Conference on Multimedia Retrieval (ICMR), 2017. 
+ICMR 17 (oral) 
+[7] Junwei Liang, Lu Jiang, Alexander Hauptmann. Temporal Localization of Audio Events for Conﬂict Monitoring in Social Media. In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017. 
+ICASSP 17 
+[8] Zhang, Dingwen, Junwei Han, Lu Jiang, Senmao Ye, and Xiaojun Chang. Revealing event saliency in unconstrained video collection. IEEE Transactions on Image Processing 26, no. 4 (2017): 1746-1758.
+TIP 17 
+[9] Lu Jiang. Web-scale Multimedia Search for Internet Video Content. In International Conference on World Wide Web (WWW), 2016.
+WWW 16 
+[10] Junwei Liang, Lu Jiang, Deyu Meng, Alexander Hauptmann. Learning to Detect Concepts from Webly-Labeled Video Data. In Joint Conference on Artiﬁcial Intelligence (IJCAI), 2016.
+IJCAI 16 
+[11]Lu Jiang, Shoou-IYu, DeyuMeng, YiYang, TerukoMitamura, AlexanderHauptmann. Fast and Accurate Content-based Semantic Search in 100M Internet Videos. In ACM Multimedia (MM), 2015.
+MM 15 
+[12] Lu Jiang, Shoou-I Yu, Deyu Meng, Teruko Mitamura, Alexander Hauptmann. Bridging the Ultimate Semantic Gap: A Semantic Search Engine for Internet Videos. In ACM International Conference on Multimedia Retrieval (ICMR), 2015. 
+ICMR 15 (best paper candidate) 
+[13] Qian Zhao, Deyu Meng, Lu Jiang, Qi Xie, Zongben Xu, Alexander Hauptmann. Self-paced Learning for Matrix Factorization. In Conference on Artiﬁcial Intelligence (AAAI), 2015.
+AAAI 15 (oral) 
+[14] Dingwen Zhang, Deyu Meng, Li Chao, Lu Jiang, Zhao Qian, Junwei Han. A self-paced multiple-instance learning framework for co-saliency detection. In IEEE International Conference on Computer Vision (ICCV), 2015. 
+ICCV 15 
+[15] Lu Jiang, Deyu Meng, Shoou-I Yu, Zhen-Zhong Lan, Shiguang Shan, Alexander Hauptmann. Self-paced Learning with Diversity. In Neural Information Processing Systems (NIPS), 2014. 
+NIPS 14
+"
+"JUAN GARCIA "," 
+Investigations to improve seismic force-resisting systems through simulations and various visualization techniques. 
+","
+Doctor of Philosophy in Civil and Environmental Engineering 
+University of Illinois at Urbana-Champaign 
+Dissertation title: “Visualizing Geotechnical Engineering Principles” 
+Advisor: Professor Ted S. Visor 
+Bachelor of Science in Civil Engineering 
+University National de San Juan, San Juan, Argentina (UNSJ) 
+"," 
+Graduate Research Assistant 
+Department of Civil Engineering, University of Illinois.  
+Design and execute small-scale testing to validate control algorithms derived to simulate seismic force-resistance.  
+Contribute to multi-disciplinary project aimed at developing visualizations and simulations to predict seismic force damage to various materials.  
+Collaborate and coordinate with faculty, staff scientists, and fellow graduate students across departments. 
+Undergraduate Consultant Departamento de Ingeniería.  
+Selected by the General Director of the City Planning Department of San Juan, to participate in the structural analysis and seismic assessment of the Dr. Guillermo Rawson Hospital, one of the largest construction projects to date in the most hazardous seismic area in Argentina.  
+Collaborated with two other members of a team to carry out a nonlinear static analysis of the structure – primary objective and main focus of the project – in agreement with FEMA 356 Pre-standard for the Seismic Rehabilitation of buildings.
+","
+Garcia, J., other authors. (Year). Title. Journal, Volume (Issue), page numbers. doi:. 
+Garcia, J., other authors. (in press). Title. Journal, Volume (Issue), page numbers.  
+Garcia, J., other authors. (Year produced). Title. Manuscript submitted for publication. 
+Garcia, J., other authors. (Year draft produced). Title. Manuscript in preparation.
+"
+ROBERT BROADSTONE," 
+My principal research interests lie in the field of conservation and impacts upon the South Wales economy. I am currently investigating the impact of tourism, government policy and demography on conservation for my PhD. Using the latest econometric modelling and e-factor analysis techniques.
+My future research plans are to build on the foundations of my PhD to further develop models and tools in conjunction with government bodies, environmental agencies and city financial modellers. I have a particular expertise and interest in the regulation of urban utilities from a conservation and sustainability perspective. I am able to read and speak French.
+","
+2008 – 2011 PhD ‘The impact of the South Wales economy on conservation – towards conservation modelling’
+University of Carmarthen.
+Centre for Environment & Development.
+Supervisor: Professor F Smith – leading researcher in conservation. Partial funding awarded by the Wales Development Agency.
+In close collaboration with the Centre for Finance, The Wales Development Agency and Groundwork Wales, my thesis investigates novel modelling tools and analytical models.
+econometric modelling, e-factor analysis, the Harvard model are used to track correlations and produce test models.
+Extensive use of databases to manage and analyse statistics. (A synopsis of work undertaken is attached) 
+"," 
+Conservation Member - Student Conservation Groups International Participating in regular conservation projects including building restoration, riverside clearance and land reclamation. Exposure to conservation marketing, budgeting and impact assessment.
+Tourism Tour Guide - Dingle Peninsula, Carmarthen Tourist Board Active in running activities - seminars, talks, guided tours and interaction with a broad range of visitors. One of 4 guides at the Blasket Island Centre dealing effectively with over 2,000 visitors each season.0
+","
+‘Towards a model of conservation’The Economist, 1st December, 2008.
+‘Conservation and the South Wales economy’Conservation Times, July 2008.
+‘E-factor analysis for the environment?’The Economist, 4th January, 2007
+"
+Abi Demir," 
+Abi is interested in a generalist position with a large management consulting firm that recruits PhD’s from Harvard. This firm has indicated they are open to receiving a two-page resume and are looking for strong academic achievement. Such companies often look for: 
+GRE scores and undergraduate GPA.
+Prestigious awards and fellowships (NIH, etc), as well as patents held.
+Publications in peer reviewed journals, particularly if you are the first author.
+Evidence of ability to work on a team.
+Examples of leadership experience.
+Demonstration of analytical/ quantitative skills
+","
+Harvard University,  Boston, MA Ph.D. 
+candidate in Biological and Biomedical Sciences. GRE: 800Q, 610V, 5.5W, 99% BIOCHEM Expected May 2017 
+Nanyang Technological University, Singapore 
+B.S. with First Class Honors in Biological Science. GPA: 3.96/4.00  May 2011 
+Minor in Entrepreneurship.
+University of Melbourne;
+International Student Exchange Program  Melbourne, Australia Feb – Jul 2011 
+"," 
+Harvard Medical School Boston, MA 
+Graduate Researcher 2012 – Present 
+Designed and executed novel biochemical experiments to test epigenetic inheritance of silent chromatin in budding yeast.
+Developed protocol for and mentored 3 postdocs on nucleosome reconstitution.
+Developed thermodynamic model to analyze electromobility supershift assays.
+Performed statistical analysis on data sets using Excel and Prism Graphpad.
+Collaborated with postdocs, a structure biology lab in Germany, and simulation scientists from Denmark and Australia. 
+Nanyang Technological University, Singapore 
+Research Associate 2009 – 2011 
+Managed and negotiated ordering for lab consumables, equipment, and services. Assisted in lab maintenance and organization 
+Initiated, designed, and executed 2 independent projects, studying aggregation behavior of nucleosome core particles (NCP), and the self-assembly of NCP-liposome complexes.
+Performed statistical analysis on data sets using Origin.
+Mentored and trained 2 graduate student.
+","
+A Demir and D Moazed. In preparation. Sir3 cooperative binding to chromatin conferred by its C-terminal winged helix dimerization domain mediates silent chromatin assembly in S. cerevisiea. 
+F Wang, G Li, A Demir, MA Currie, A Johnson, D Moazed (2015). “Heterochromatin protein Sir3 induces contacts between the amino terminus of histone H4 and nucleosomal DNA.” Proc Natl Acad Sci USA 110(21): 8495-8500. 
+NV Berezhnoy, D Lundberg, N Korolev, A Demir, J Yan, M Miguel, B Lindman, L Nordenskiold (2014). “Supramolecular organization in self-assembly of chromatin and cationic lipid bilayers is controlled by membrane charge density.” Biomacromolecules 13(12): 4146-4157. 
+Y Liu, A Demir, Y Yang, YP Fan, N Korolev, L Nordenskiöld (2013). “Influence of histone tails and H4 tail acetylations on nucleosome-nucleosome interactions.” J Mol Biol 414(5): 749-764. 
+D Lundberg, NV Berezhnoy, A Demir, N Korolev, CJ Su, V Alfredsson, MG Miguel, B Lindman and L Nordenskiold (2012). “Interactions between cationic lipid bilayers and model chromatin.” Langmuir 26 (15): 12488-12492. 
+"
+Akila Arap," 
+Akila is also interested in a generalist position within a large management consulting firm that recruits PhDs from Harvard. This firm indicated they are specifically seeking a one page resume. You will notice Akila’s emphasis on leadership and teamwork. Her quantifiable information in her bullets also indicates that she is results driven.
+","
+Harvard University, Graduate School of Arts and Sciences         
+Cambridge, MA PhD, Biological Sciences in Public Health, GPA: 3.66/4.00    Jan 2017 
+Harvard Merit Fellowship recipient 
+GRE Scores: Quantitative 780 Verbal 530   
+Cambridge University, Faculty of Science         Cambridge, UK 
+MSc, Molecular Biology and Genetics, GPA: 3.90/4.00         May 2011 
+Fellowship recipient (Scientific and Technological Research Council) University of Oxford, Faculty of Engineering and Natural Sciences             Oxford, UK 
+BSc, Biological Sciences and Bioengineering, GPA: 3.90/4.00
+"," 
+PhD Researcher in Harvard University 
+Spearheaded collaboration between 2 principal investigators in department for thesis work 
+Identified novel genetic requirement for dietary restriction-mediated beneficial effects in mice 
+Presented work at local and international scientific meetings
+Cambridge, MA     Sept 2011 - Present 
+MSc Researcher in Cambridge University   Cambridge, UK 
+Worked in 3 laboratories in Turkey and France to characterize epigenetic regulation in liver cancer 
+Defended thesis to jury of 3 professors and department of ~60 researchers
+","
+ 2 first-author publications: Cell Reports (2016), Biochemical Journal (2015, Review Article) 
+ 4 co-authored publications: Cell (second author), Nature Communications, J. of Nutrition (2016); Science Signaling (2014)
+
+"
+Sachi Nabulsi ," 
+Sachi is applying for data analytics or data scientist positions at various organizations. She includes information on her analytical skills and programming languages she is familiar with
+","
+Harvard University                   Cambridge, MA 
+Ph.D. Physics                
+expected 2018 National Science Foundation Graduate Research Fellowship, National Xxxx Grant recipient 
+University of Oxford          Oxford, UK 
+M.Phil. Physics               July 2014 
+Relevant Coursework: Data Analytics, Economics 
+Stanford University Stanford, CA 
+B.S. Physics; graduation with Honors; GPA 4.0/4.0            June 2011 
+Axline and Lingle Scholarships 
+"," 
+Harvard University                  Cambridge, MA 
+PhD Researcher             Feb. 2014 – present 
+Use microscopy to study structure and dynamics of various systems
+Investigate fluctuations in specific crystals, and analyze data in MatLab 
+Discovered novel structure of gels formed by oppositely charged particles 
+Gave presentation at national conference to 50 attendees
+University of Oxford      Oxford, UK 
+Master’s Researcher                        Sep. 2013 – Aug. 2014 
+Prepared paramagnetic salts and characterized hydrostaticity for ultra-high-pressure physics 
+Conducted extensive data analysis via MatLab
+Interpreted technical material for non-technical audience at local physics conference
+Stanford University Stanford, CA Summer Undergraduate Researcher         June – Aug. 2008
+Studied relationship between knot theory and quantum field theor
+Computed values of various figure-eight knots. Presented results to 10 research team members
+European Organisation for Nuclear Research (CERN)   Geneva, Switzerland Summer Undergraduate Researcher          June – Sep. 2010 
+Tested detectors for specific nuclear barrels 
+Compiled and analyzed 20+ data sets and presented results to CERN researchers
+Stanford University   Stanford, CA Summer Undergraduate Researcher         June – Aug. 2008         
+Polarized gas nuclei and took measurements using magnetic techniques
+
+","
+S. Nabulsi, “Oppositely Charged Particles”  
+Soft Matter, 2(22), 2222-2222 (2016). 
+"
+JUANITA DUARTE," 
+Modern European Military History  
+The History of Modern Britain  
+The British Military Experience 
+","
+2007–present PhD, European History, University of Toronto  Thesis: French Military Policy During the Algerian War of Independence, 1952–62  Supervisor: Dr. Michael Faust 
+2006–07 Master of Arts, European History, University of Toronto  Thesis: British Foreign Policy During the Inter-War Period  Supervisor: Dr. Edward Chelin 
+2002–2006 Bachelor of Arts with First Class Honours, History, 
+University of Alberta 
+"," 
+2007–present Doctoral Candidate, University of Toronto
+Examine the French settler society in Algeria during the Algerian War of Independence, 1954–62
+Synthesized some of the latest research on the causes of civil warfare and strife in Africa
+Completed a project analyzing British foreign policy during the inter-war period  
+Gained familiarity with the 1994 Defence White Paper and recent literature concerning Canadian defence policy 
+2006–07 Graduate Student, Department of History, University of Toronto
+Master project examined Anglo-American defence relations after World War One 
+Researched and wrote a term paper analyzing Italian military policy during the Spanish Civil War
+","
+Duarte, Juanita. “British Armoured Warfare Doctrine During the Inter-War Period.” British Historical Review 145, no. 5 (2008): 22–39.
+"
+Beverly Gilmore," 
+Information management, data analysis , bibliographic database (EndNote), and communications software
+","
+Expected defence PhD candidate (ABD), Ontario Institute for Studies in Education,  in spring 2010 University of Toronto  Thesis title: Under the Microscope: Difference in Medical Laboratory Science in Canada  Supervisor: Dr. Elizabeth Strom 
+2004 Master of Education, Higher Education: Health Professional Education  Ontario Institute for Studies in Education, University of Toronto 
+2002 Bachelor of Education,  Adult Education  Brock University 
+1981 Bachelor of Science. Chemistry and Biochemistry
+University of Toronto
+"," 
+Jan. 2009 Research consultant, Ontario Society for Medical Laboratory to present Science 
+Conducted research in human resources and education  
+Advocated and consulted on emerging issues 
+Jan.–Apr. 2008  Research assistant, Ontario Institute for Studies in Education, University of Toronto
+Participated in congress planning for the annual conference of the Canadian Society for the Study of Higher Education, 26–28 May 2005, Toronto; designed the program document and schedule; organized special events and chaired sessions 
+June 2005  Research assistant, Ontario Institute for Studies in Education, University of Toronto
+Project leader: Nadia Petrovic (Director, Institute for Women’s Studies and Gender Studies, University of Toronto, and Professor, Sociology and Equity Studies in Education, OISE/UT)   
+Conducted a critical review of literature and created an annotated bibliography using a bibliographic database for a research proposal on work and learning.   
+Contributed to the proposal for the SSHRC study of David Livingstone, Director of the Centre for the Study of Education and Work, “The Changing Nature of Work and Lifelong Learning in the New Economy”
+","
+Gilmore, B. (in press). Professional ideology and educational practice: Learning to be a health professional. In M. Suzin and S. H. Tran (Eds.), Teaching as activism: Equity meets environmentalism. Kingston: McGillQueen’s University Press. 
+Gilmore, B. (2009). More than meets the eye: CSMLS members’ support for degree entry. National Journal of Medical Laboratory Science, 65(3), 98–111. 
+"
+Monir El Halaby," 
+ Communication algorithms and implementations for wired and wireless optical channels 
+ Indoor and free-space wireless optical communications  
+ Optical modem design for wired and wireless optical channels  
+ Communications theory and information theory applied to optical channels 
+","
+2007–present  Doctor of Philosophy (expected June 2011)  Department of Electrical and Computer Engineering, University of Toronto  Thesis: Spectrally efficient modem design for indoor wireless optical channels  Supervisor: Professor Finn Ginsberry 
+2005–2007  Master of Applied Science  Department of Electrical and Computer Engineering, University of Toronto  Thesis: Modulation and constrained coding techniques for wireless infrared communication channels  Supervisors: Professors Dieter Kohlberg and Finn Ginsberry 
+2001–2005  Bachelor of Applied Science (first class honours)  Department of Electrical and Computer Engineering, University of Waterloo  
+Sir Sandford Fleming Foundation Medal winner for Highest Academic Standing in Electrical Engineering Program 
+"," 
+2007–present  Research Assistant, Doctoral level  Department of Electrical and Computer Engineering, University of Toronto  Project: Modem design for spectrally constrained indoor wireless optical channels  Supervisor: Professor Finn Ginsberry 
+2005–2007  Research Assistant, Master’s level  Department of Electrical and Computer Engineering, University of Toronto  Project: Experimental channel construction and characterization and design of a novel optical intensity modulation scheme  Supervisors: Professors Dieter Kohlberg and Finn Ginsberry 
+2004  Research Assistant, VTSL Research Group, Department of Electrical and Computer Engineering, University of Waterloo Project: Designed and laid out a parallel multiplier library in a BiCMOS process Project: Designed the digital switching portions of a segmented D-to-A converter Supervisors: Dr. A. Chang and Professor M.I. Alhambra 
+2003  Research Assistant, Undergraduate Research Assistantship, Department of Electrical and Computer Engineering, University of Waterloo  Project: Research into high-voltage DC power system modelling  Supervisor: Professor B.A. Fuentes
+","
+ El Halaby, M., and Ginsberry, F. (2010, April). Capacity bounds for power- and bandlimited optical intensity channels corrupted by gaussian noise. Submitted to IEEE Transactions on Information Theory
+"
+"
+Sandeep Mehta
+"," 
+ Antibody structure/function. Regulation of antibody responses by synthetic epitopes. Antibody engineering. Monoclonal antibodies. Vaccine development.  
+ Recombinant antibodies containing an engineered B cell epitope capable of eliciting conformation = specific antibody responses. 
+","
+2004–2010 PhD Immunology  Department of Immunology, University of Toronto, Toronto, Ontario  Thesis: Recombinant anti-class II MHC antibodies containing conformationally constrained, immunogenic HIV-1 B cell epitopes  Supervisor: Dr. F.W. Modeato 
+2000–2004 Honours Bachelor of Science, Biology  McMaster University, Hamilton, Ontario
+"," 
+2004–10 Graduate Student, Department of Immunology, University of Toronto 
+Completed doctoral research in the area of HIV vaccine development.
+Developed expertise in molecular biology, genetics, virology, and immunology.  
+2006–07 Science Writer, Cangen Research Institute, Toronto  
+Worked with Dr. Pak Ling on an introductory immunology textbook for undergraduates and medical students.  
+Wrote content for a variety of additional smaller texts. 
+2003–2004 Undergraduate Research, Department of Biology, University of Toronto  
+Organized laboratory experiments for Dr. Chiu Yue  
+Ran agarose gel electrophoresis  
+Performed restriction digests and ligation reactions  
+Transformed E. coli 
+","
+Mehta, Sandeep, and Cutler, B. H. (2009). Recombinant anti-class II MHC antibodies containing conformationally constrained, immunogenic HIV-1 B cell epitopes. AIDS and Human Retroviruses, 13, 449–459. 
+ Mehta, Sandeep, and Cutler, B. H. (2008). Recombinant antibodies containing an engineered B cell epitope capable of eliciting conformation = specific antibody responses. Vaccine, 13, 1770–1778.
+"
+JAIME  SIMONELL," 
+Cognitive Work Analysis, Dynamic Systems Theory, Learning and Mental Models, HumanComputer Interaction, Energy Policie
+","
+ Master of Applied Science, University of Toronto, Human Factors Engineering 2010  Dissertation: Cognitive Models and Environmental Interface Designs  Supervisor: Dr. Carine Mendelsson
+ Bachelor of Science, University of Waterloo, Computer Science
+"," 
+Research Assistant Department of Industrial Engineering, University of Toronto, 2008-2010
+Conducted research in the area of Cognitive Models and Noise Interface Design under the supervision of Dr. C. M.Simon
+Assessed designs for ecological compatibility with operators.
+Research Assistant Department of Computer Science, University of Waterloo, 2006-2008
+Conducted research in the area of Visual Perception and Interface Design under the supervision of Dr. V.J. Malcom.
+Provided potential designs for review within limited time frames.
+Research Assistant Department of Mathematics, University of Waterloo, Summer 2006;
+Conducted research on Mathematical models to assess risks under the supervision of Dr. F. M. Kunthalini.
+Utilized mathematical models to find the intersection of minimal risks
+","
+Simonell, J. (2009). “Noise Impact on Ecological Design.” Proceedings of the Human Factors and Ergonomics Society 30th Annual Meeting, pp. 211–290. Los Angeles, CA: USA.
+Simonell, J., Tippits, S., & Donald, A. (2009). “Human Factors Project.” Proceedings of the 20th Annual Conference of the American Nuclear Society. Los Angeles, CA: USA.
+"
+Leslie Winters," 
+Conducted ethical review development for research focusing on the challenges of transitioning from a French Immersion program to an English only educational setting
+","
+2010 M.Ed., Teaching and Learning Ontario Institute for Studies in Education (OISE), University of Toronto, Toronto
+Thesis topic: Diversity in Learning in Francophone Settings  Supervisor: Dr. James Strong
+2006 B.Ed., History and French, McGill University, Montreal
+2005 B.Sc., Biology and French, Queens University, Kingston
+"," 
+2008  Research Assistant, Language Competency Program  Ontario Institute for Studies in Education, Toronto  Supervisor: Dr. Pierre St. Jean.
+Reviewed language competency tests for consistency in assessment measures with the French Competency Guidelines (2009) and revised tests according to findings  
+Conducted focus groups to assess tests’ reliability and validity
+2006–2007  Research Assistant, Language Planning Course Review McGill
+University, Montreal  Supervisor: Dr. Francine Mouton
+Researched tools for creating online courses and prepared bibliography to be used in a new course taught to graduate students
+","
+Manson, N. et L. Winters. Le bilinguisme et le marché du travail, Vieillex, S. et J. Robert (eds), Ottawa: La Petite Presse. 2010.
+Winters, L. (septembre 2009) « L’école en transition: perspectives de changements ». Actes du colloque ASAL-VSAX. Montreal.
+Winters, L. (2008). « Je ne parle pas anglais: un portrait de la francophonie canadienne » dans Bonjour Canada. Ottawa : Gouvernement du Canada. (co-auteur et recherchiste). 
+"
